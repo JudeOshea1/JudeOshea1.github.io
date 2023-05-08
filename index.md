@@ -2,5 +2,5 @@ Hello and welcome to my blog! I am currently a student enrolled at the Univerist
 
 ![Image of fast.ai logo](images/logo.png)
 
-## Posts
+
 
