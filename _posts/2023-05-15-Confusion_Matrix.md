@@ -5,6 +5,7 @@ An exmpale of this can be showed below,
 
 -----------------------------
      A     B     C
+     
 A    1     0     0
 
 B    0     1     0 
