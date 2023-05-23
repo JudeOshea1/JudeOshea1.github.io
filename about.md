@@ -4,3 +4,4 @@ My name is Jude O'Shea and I am currently a 5th year electrical enggineering stu
 
 I am also currently in an internship position at a company called Shellby Power. Here I am helping in the deigning, manufacturing and upkeeping of large scale generators. I am learning many different ascepts life as an enggineer such as client interaction, product demonstration and useful softwares (autocad, word, etc). 
 
+![](/images/mugshot.png "Picture of my Face")
