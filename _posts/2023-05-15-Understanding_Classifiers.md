@@ -1,2 +1,2 @@
-#Understanding Classifiers 
+# Understanding Classifiers 
 Through reserach and examples such as 00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb I now understand how classifiers work. By training up a fastai system with a series of labeled images, it can analyis these visualise simalarites in other images. With enough data, a highly accurate classifier can be created. This is really cool as 10 years ago this problem was thought to be an impossible task and now can be done by any one with a computer in less then 5 minuets. The rapid growth of modern ai's ability is both amazing and terrifing. 
