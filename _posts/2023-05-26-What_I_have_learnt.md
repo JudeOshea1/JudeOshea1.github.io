@@ -1,0 +1,2 @@
+# What I have Learnt 
+Fastai is a powerful tool for building and training classifiers. With its simplicity, using fastai has become easy than ever and each day becomes more available. It allows both beginners and experienced programmers to create accurate and efficient models. From how quickly it has evolved, I am so excited to along for the ride and see what the near future has instore for us humans! Fingers crossed they don't take over !!!
