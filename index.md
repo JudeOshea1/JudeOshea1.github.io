@@ -2,9 +2,9 @@ Hello and welcome to my blog! I am currently a student enrolled at the Univerist
 
 ![Image of fast.ai logo](images/logo.png) 
 
-This blog will document my journey and display the things I've learnt along the way!
+This blog will document my journey and display the things I've learnt along the way! and hopefully I can learn how to stop ai taking over!!
 
-![Image of my Face](images/mugshot.jpg) 
+![They're gonna take over!](images/terminator_endoskeleton_1020.webp) 
 
 
 
